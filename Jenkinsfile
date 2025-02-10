@@ -13,7 +13,7 @@ pipeline {
         CENTRAL_REPO = 'vpro-maven-central'
         NEXUS_IP = '172.17.0.3'
         NEXUS_PORT = '8081'
-        NEXUS_GRP_REPO = 'nuget-group'
+        NEXUS_GRP_REPO = 'vpro-maven-group'
         NEXUS_LOGIN = 'nexuslogin'
     }
 
